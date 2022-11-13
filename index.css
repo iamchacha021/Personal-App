@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: hsla(180, 100%, 50%, 0.589);
+    font-size: 2rem;
+    font-family: monospace;
+}
+
+h1 {
+    background-color: rgba(0, 113, 128, 0.642);
+    padding: 1.5rem;
+}
